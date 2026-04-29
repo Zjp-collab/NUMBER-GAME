@@ -1,6 +1,5 @@
 """
-Number Guessing Game — Enhanced Edition
-Features:
+Number Guessing Game
   - Single Player mode with hint system, guess history, timer, statistics
   - Computer Guessing mode (binary search AI)
   - Multiplayer mode (two players, alternating turns)
@@ -441,7 +440,6 @@ def main():
             running = False
 
     print("\n  Thanks for playing! Goodbye. 👋\n")
-
 
 if __name__ == "__main__":
     main()
